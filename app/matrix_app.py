@@ -16,5 +16,4 @@ class MatrixApp:
         self.app_ui = MatrixAppUI(self.root, self.matrix_operations)
         
     def run(self):
-        self.app_ui.setup_ui()
         self.root.mainloop()
