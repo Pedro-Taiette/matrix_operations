@@ -1,0 +1,40 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+sdist/
+wheels/
+
+# Python specific IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# VSCode
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
